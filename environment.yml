@@ -1,0 +1,8 @@
+name: entropy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy=1.23.4
+prefix: /Applications/anaconda3/envs/entropy
+
